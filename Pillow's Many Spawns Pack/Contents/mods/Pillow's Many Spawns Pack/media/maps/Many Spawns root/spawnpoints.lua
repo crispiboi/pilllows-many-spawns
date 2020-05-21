@@ -709,6 +709,22 @@ function SpawnPoints()
 --potentially shitty starts
 {worldX = 35, worldY = 37, posX = 86, posY = 43}, -- crossroads wreckage south of muldraugh
 {worldX = 32, worldY = 33, posX = 51, posY = 255}, -- construction site far west of muldraugh, office
+{worldX = 41, worldY = 22, posX = 21, posY = 141}, -- Valley Station,  wreck site bridge to valley station ID:886
+{worldX = 34, worldY = 41, posX = 73, posY = 16}, -- March Ridge,  hitchhiker spot just north of March Ridge ID:887
+{worldX = 28, worldY = 41, posX = 73, posY = 17}, -- Rosewood,  hitchhiker spot Highway south of Rosewood by sign ID:888
+{worldX = 27, worldY = 37, posX = 191, posY = 96}, -- Rosewood,  hitchhiker spot Highway north of Rosewood by sign ID:889
+{worldX = 22, worldY = 37, posX = 89, posY = 97}, -- Rosewood,  hitchhiker spot road to secret base ID:890
+{worldX = 12, worldY = 28, posX = 145, posY = 3}, -- Ekron,  hitchhiker by scouting camp ID:891
+{worldX = 12, worldY = 19, posX = 74, posY = 291}, -- Riverside,  hitchhiker gas station west of Riverside ID:892
+{worldX = 18, worldY = 19, posX = 29, posY = 142}, -- Riverside,  hitchhiker gas station west of Riverside 2 ID:893
+{worldX = 36, worldY = 29, posX = 130, posY = 56}, -- Muldraugh,  hitchhiker Muldraugh sign north of city ID:894
+{worldX = 42, worldY = 19, posX = 93, posY = 113}, -- Valley Station,  hitchhiker outside Valley station rest stop ID:895
+{worldX = 42, worldY = 17, posX = 92, posY = 68}, -- Valley Station,  hitchhiker outside Valley station rest stop 2 ID:896
+{worldX = 40, worldY = 23, posX = 242, posY = 79}, -- West Point,  hitchhiker east of westpoint ID:897
+{worldX = 24, worldY = 28, posX = 72, posY = 130}, -- Ekron,  hitchhiker South of Ekron by bar ID:898
+{worldX = 25, worldY = 33, posX = 294, posY = 270}, -- Ekron,  hitchhiker Ekron farming cross roads ID:899
+{worldX = 38, worldY = 27, posX = 235, posY = 221}, -- Dixie,  hitchhiker Crossroads north of dixie ID:900
+{worldX = 33, worldY = 37, posX = 221, posY = 42} -- Muldraugh adjacent,  hitchhiker Diner near mudlraugh industrial zone ID:901
 
 }, --end unemployed
 
